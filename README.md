@@ -15,8 +15,8 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/django-argon-theme-playground.git
+$ cd django-argon-theme-playground
 ```
 
 <br />
@@ -36,8 +36,8 @@ Visit `http://localhost:5085` in your browser. The app should be up & running.
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/core-django.git
-$ cd core-django
+$ git clone https://github.com/app-generator/django-argon-theme-playground.git
+$ cd django-argon-theme-playground
 ```
 
 <br />

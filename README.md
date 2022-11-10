@@ -1,4 +1,4 @@
-# Django Core
+# [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard) `playground`
 
 Minimal **Django** project with `Docker` support - actively supported by [AppSeed](https://appseed.us/) via `Email` and `Discord`.
 
@@ -6,6 +6,7 @@ Minimal **Django** project with `Docker` support - actively supported by [AppSee
 
 - ✅ `Up-to-date Dependencies`
 - ✅ `Docker`
+- ✅ Theme: [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard)
 
 <br />
 
@@ -71,4 +72,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-**Django Core** - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**
+ [Django Admin Argon](https://github.com/app-generator/django-admin-argon-dashboard) `playground` - Minimal **Django** core provided by **[AppSeed](https://appseed.us/)**

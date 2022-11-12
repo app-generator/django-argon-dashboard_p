@@ -14,3 +14,17 @@ def index(request):
     # Custom Page  
     return render(request, 'custom.html')
 
+
+def tables(request):
+    # Page from the theme 
+    # return render(request, 'pages/tables.html')
+
+    # Custom Page  
+    return render(request, 'custom_table.html')
+
+def billing(request):
+    # Page from the theme 
+    # return render(request, 'pages/billing.html')
+
+    # Custom Page  
+    return render(request, 'custom_billing.html')

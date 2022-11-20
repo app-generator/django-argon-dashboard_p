@@ -1,3 +1,2 @@
 django
 gunicorn
-django-admin-argon-dashboard

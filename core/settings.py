@@ -31,8 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # 'admin_argon.apps.AdminArgonConfig',
-    #'admin_material.apps.AdminMaterialDashboardConfig',
+    'admin_argon.apps.AdminArgonConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -41,9 +40,6 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     "app1",
-
-    # third party apps
-    "admin_argon",
 ]
 
 MIDDLEWARE = [

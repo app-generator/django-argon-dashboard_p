@@ -1,2 +1,4 @@
 django
 gunicorn
+django-admin-argon-dashboard==1.0.7
+

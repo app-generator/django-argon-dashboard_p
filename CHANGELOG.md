@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3] 2022-11-25
+### Changes
+
+- Bump [Argon Theme](https://github.com/app-generator/django-admin-argon-dashboard) to `v1.0.10`
+
 ## [1.0.2] 2022-11-25
 ### Changes
 

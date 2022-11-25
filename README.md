@@ -20,8 +20,8 @@ https://user-images.githubusercontent.com/51070104/201376476-1f1e9e02-70ce-401a-
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-argon-theme-playground.git
-$ cd django-argon-theme-playground
+$ git clone https://github.com/app-generator/django-admin-argon-dashboard_p.git
+$ cd django-admin-argon-dashboard_p
 ```
 
 <br />
